@@ -1,8 +1,8 @@
 - 👋 Hi, I’m developer @komil-pro;
 - 👀 I’m interested in web apps;
-- 🌱 I’m currently learning new PM methods.
-- 💞️ I’m looking to collaborate on new cool projects.
-- 📫 How to reach me - team[at sign]code[dot]tj
+- 🌱 I’m currently learning new PM methods;
+- 💞️ I’m looking to collaborate on new cool projects;
+- 📫 How to reach me - team[at sign]code[dot]tj.
 
 <!---
 komil-pro/komil-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
