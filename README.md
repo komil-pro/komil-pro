@@ -1,6 +1,6 @@
 - 👋 Hi, I’m developer @komil-pro;
-- 👀 I’m interested in web apps;
-- 🌱 I’m currently learning new PM methods;
+- 👀 I’m interested in web & mobile apps;
+- 🌱 I’m currently learning new PM methods and new tools;
 - 💞️ I’m looking to collaborate on new cool projects;
 - 📫 How to reach me - team[at sign]code[dot]tj.
 
